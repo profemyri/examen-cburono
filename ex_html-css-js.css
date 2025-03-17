@@ -17,19 +17,17 @@ h2{
 
 img{
    width:100%;
-
-
+border: radius 5px; ;
 }
 
 form {
    background-color: #ffff;
-   f
-   padding: 20px;
+   border: 20px;
 }
 
 button{
    color: #a4161a;
-   background-attachment: white;
+   background-color: white;
    
 }
 .instruccionesAdicionales{
