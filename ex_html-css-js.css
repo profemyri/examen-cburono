@@ -1,31 +1,37 @@
 body {
    background-color:#faf0dc;
    color:black;
-   font-style:arial, sans-serif;
+   font-family:arial, sans-serif;
 }
 
 h1 {
-   font-size: 32px;
+   font-size:center ;
    color: #a4161a;
    border: 15px;
+   font-style: 20px;
+}
+h2{
+   font-size: 24px;
+   color:#5f5e5e;
 }
 
 img{
-   h
+   width:100%;
 
 
 }
 
 form {
    background-color: #ffff;
+   f
    padding: 20px;
 }
 
 button{
    color: #a4161a;
    background-attachment: white;
-   w
+   
 }
 .instruccionesAdicionales{
-   placeholder:color: #5f5e5e;
+   color: #5f5e5e;
 }
