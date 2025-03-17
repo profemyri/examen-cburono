@@ -1,15 +1,24 @@
 body {
    background-color:#faf0dc;
    color:black;
-   fo: ;
+   font-style:arial, sans-serif;
 }
 
 h1 {
-   ...........
+   font-size: 32px;
+   color: #a4161a;
+   border: 15px;
+}
+
+img{
+   h
+
+
 }
 
 form {
-   ...........
+   background-color: #ffff;
+   padding: 20px;
 }
 
 ............
